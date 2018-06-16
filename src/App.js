@@ -11,7 +11,7 @@ class App extends Component {
           <h1 className="App-title">Statybu paieška namams</h1>
         </header>
         <p className="App-intro">
-          To get started, edit <code>src/App.js</code> and save to reload.
+          Sveikas atvykęs į aplikacijos pradžią. Dabar viską sukodink :D
         </p>
       </div>
     );
