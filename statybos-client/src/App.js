@@ -1,18 +1,14 @@
 import React, { Component } from 'react';
-import logo from './logo.svg';
-import './App.css';
+import './Assets/css/default.min.css';
+
+//components
+import Header from './components/header-component/header.js';
 
 class App extends Component {
   render() {
     return (
       <div className="App">
-        <header className="App-header">
-          <img src={logo} className="App-logo" alt="logo" />
-          <h1 className="App-title">Statybu paieška namams</h1>
-        </header>
-        <p className="App-intro">
-          Sveikas atvykęs į aplikacijos pradžią. Dabar viską sukodink :D
-        </p>
+
       </div>
     );
   }
